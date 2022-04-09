@@ -1,4 +1,4 @@
-# flutter_goal_tentimes
+# A Simple Recipe App
 
 A new Flutter project.
 
